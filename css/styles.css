@@ -1,0 +1,24 @@
+a {
+
+	display: block;
+}
+
+body{
+
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+
+	line-height: 30px;
+	font-weight: 100;
+}
+
+blockquote{
+
+	font-weight: bold;
+	text-transform: uppercase;
+	color: orange;
+}
