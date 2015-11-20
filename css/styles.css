@@ -3,20 +3,14 @@ a:active,
 a:visited {
 
 	display: block;
-	color: white;
-	text-decoration: none;
-	font-size: 20px;
-	line-height: 60px;
-	background:orange;
-	margin-top: 20px;
-	text-align: center;
+	padding-top: 10px;
+	margin-right: auto;
+	margin-left: 25px;
+	
 
 }
 
-.working{
 
-	background: #A9A7A7;
-}
 
 
 body{
@@ -41,6 +35,8 @@ img	{
 	width: 100%;
 	height: auto;
 	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 	
 }
@@ -50,6 +46,8 @@ li{
 
 	line-height: 30px;
 	font-weight: 100;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 blockquote{
